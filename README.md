@@ -1,4 +1,4 @@
-# 💫 About Me:
+ 💫 About Me:
  ✨ Hi, I'm Gershwin<br> 🧠 Computer Science student at KNUST<br> ➿Into esports, full-stack development, and building digital platforms
 
 
